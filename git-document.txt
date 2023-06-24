@@ -1,0 +1,31 @@
+Terms:
+1) Direcotory->Folder
+2) Terminal or command line -> interface or text command
+3) CLI -> COmmand line interface
+4) cd -> change directory
+5) Code editor -> word processor for writing code
+6) Repositary -> project or folder place where project kept
+7) Github -> A website to host your repositary online
+
+
+
+Git Command:
+1) Clone -> use command to download project from github to local system
+2) add -> track your files and changes in git
+3) commit -> save your files in git
+4) push -> upload git commits to a remote repo, like github
+5) pull -> 	download changes from remote repo to your local machine, the opposite of push
+6) 
+
+1) create account on github
+2) create repositary(demo-repo) on github
+3) create a readme.md file
+4) bring demo-repo from github to local with command (git clone "repo path")
+5) create or update in any file on local
+6) check with command => git status
+7) check all files with command => ls
+8) add file on github with command => git add . (for all files)
+                                   => git index.php for specific file
+9) after that need to check status again with command => git status
+10) after that run commit command with message => git commit -m "this is upated file"
+								   
