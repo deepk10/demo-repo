@@ -28,4 +28,5 @@ Git Command:
                                    => git index.php for specific file
 9) after that need to check status again with command => git status
 10) after that run commit command with message => git commit -m "this is upated file"
+11) after that run command => git push "to deployee the code on repostory"
 								   
