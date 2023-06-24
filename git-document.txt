@@ -17,6 +17,7 @@ Git Command:
 5) pull -> 	download changes from remote repo to your local machine, the opposite of push
 6) 
 
+<--------From Github to local ------>
 1) create account on github
 2) create repositary(demo-repo) on github
 3) create a readme.md file
@@ -29,4 +30,15 @@ Git Command:
 9) after that need to check status again with command => git status
 10) after that run commit command with message => git commit -m "this is upated file"
 11) after that run command => git push "to deployee the code on repostory"
+
+
+<!-----------From local to github ----------->
+1) create a folder on local demo-repo2
+2) run command => git init
+3) create a repository on githum with the name demo-repo2
+4) run command on terminal => git remote add origin https://github.com/deepk10/demo-repo2.git
+5) then run command for check => git remote -v
+6) 
+								   
+								   
 								   
