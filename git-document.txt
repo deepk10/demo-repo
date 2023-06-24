@@ -1,7 +1,7 @@
 Terms:
 1) Direcotory->Folder
 2) Terminal or command line -> interface or text command
-3) CLI -> COmmand line interface
+3) CLI -> Command line interface
 4) cd -> change directory
 5) Code editor -> word processor for writing code
 6) Repositary -> project or folder place where project kept
